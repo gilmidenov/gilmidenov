@@ -9,6 +9,10 @@ JavaScript and modern frontend development.
 
 ### 📫 Contact
 [Telegram](https://t.me/adenoffm) · gilmidenov.ad@gmail.com
+
+🌐 My Website [gilmidenov.dev](https://gilmidenov.github.io/gilmidenov.dev/)
+
+
 <!--
 **gilmidenov/gilmidenov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
