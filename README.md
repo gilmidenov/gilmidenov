@@ -1,5 +1,14 @@
 ## Hi there 👋
 I'm **Adilzhan**, a PHP developer who enjoys building clean and reliable web applications.
+
+### 💻 Tech Stack
+PHP · Yii2 · Laravel · JavaScript · MySQL · HTML · CSS · Git · Docker
+
+### 🌱 Currently Learning
+JavaScript and modern frontend development.
+
+### 📫 Contact
+[Telegram](https://t.me/adenoffm) · [Email](mailto:gilmidenov.ad@gmail.com)
 <!--
 **gilmidenov/gilmidenov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
