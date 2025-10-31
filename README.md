@@ -8,7 +8,7 @@ PHP · Yii2 · Laravel · JavaScript · MySQL · HTML · CSS · Git · Docker
 JavaScript and modern frontend development.
 
 ### 📫 Contact
-[Telegram](https://t.me/adenoffm) · [Email](mailto:gilmidenov.ad@gmail.com)
+[Telegram](https://t.me/adenoffm) · gilmidenov.ad@gmail.com
 <!--
 **gilmidenov/gilmidenov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
